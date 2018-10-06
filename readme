@@ -1,0 +1,2 @@
+create_weather create_news 裡的讀寫路徑要是絕對路徑 <br>
+記得crontab每日執行的檔要改屬性裡權限勾選程式執行
